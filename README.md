@@ -4,7 +4,7 @@
 **Revisores:** Mariano González. 
 **Última modificación:** 03/03/2025|
 
-El objetivo de este proyecto es doble: Por una parte, se quiere diseñar una aplicación que recoja información de trayectos de trenes, tal y como se muestra en la siguiente tabla, y, por otra parte se quiere mostra cómo una interfaz sirve como un contrato para el diseño de un tipo, que puede ser implementado de dos formas distintas, para lo que usaremos un esquema interfaz (**TrayectoTren**)+ claseimpl (**TrayectoTrenImpl**)+ claseimpl2 (**TrayectoTrenImpl2**) (ver diagrama de clases).
+El objetivo de este proyecto es doble: Por una parte, se quiere diseñar una aplicación que recoja información de trayectos de trenes, tal y como se muestra en la siguiente tabla, y, por otra parte se quiere mostrar cómo una interfaz sirve como un contrato para el diseño de un tipo, que puede ser implementado de dos formas distintas, para lo que usaremos un esquema interfaz (**TrayectoTren**)+ claseimpl (**TrayectoTrenImpl**)+ claseimpl2 (**TrayectoTrenImpl2**) (ver diagrama de clases).
 
 ![image](https://user-images.githubusercontent.com/72299672/222902140-5f4114b6-92cf-4433-a668-f8d17a7e62d7.png)
 
